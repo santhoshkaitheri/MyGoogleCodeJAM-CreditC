@@ -1,4 +1,8 @@
-	package googleCodeJAM;
+/** Store Credit Problem - Google Code JAM Africa Qualification 2010
+    Author - Santhosh Kaitheri
+*/	
+
+package googleCodeJAM;
 
 import java.io.BufferedReader;
 import java.io.BufferedWriter;
